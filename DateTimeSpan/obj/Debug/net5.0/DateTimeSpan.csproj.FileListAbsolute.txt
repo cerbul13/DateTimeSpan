@@ -1,0 +1,16 @@
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\bin\Debug\net5.0\DateTimeSpan.exe
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\bin\Debug\net5.0\DateTimeSpan.deps.json
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\bin\Debug\net5.0\DateTimeSpan.runtimeconfig.json
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\bin\Debug\net5.0\DateTimeSpan.runtimeconfig.dev.json
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\bin\Debug\net5.0\DateTimeSpan.dll
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\bin\Debug\net5.0\ref\DateTimeSpan.dll
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\bin\Debug\net5.0\DateTimeSpan.pdb
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\obj\Debug\net5.0\DateTimeSpan.csproj.AssemblyReference.cache
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\obj\Debug\net5.0\DateTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\obj\Debug\net5.0\DateTimeSpan.AssemblyInfoInputs.cache
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\obj\Debug\net5.0\DateTimeSpan.AssemblyInfo.cs
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\obj\Debug\net5.0\DateTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\obj\Debug\net5.0\DateTimeSpan.dll
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\obj\Debug\net5.0\ref\DateTimeSpan.dll
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\obj\Debug\net5.0\DateTimeSpan.pdb
+C:\Users\Dan Cerba\source\repos\DateTimeSpan\DateTimeSpan\obj\Debug\net5.0\DateTimeSpan.genruntimeconfig.cache
